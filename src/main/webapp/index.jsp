@@ -5,13 +5,13 @@
 
 <h2 style="color:Purple;">This is Web application Program </h2>
 
+<h2 style="color:Purple ;"> This project created by PipeLine SCRIPT SCM using Jenkins File</h2>
+
 <h2 style="color:Purple;"> Docker Sever IP= 172.17.0.2 </h2>
 <h2 style="color:Purple;"> User Name= test </h2>
 <h2 style="color:Purple;"> ENVIRONMENT=QA </h2>
 
-<h2 style="color:Purple;"> Schedule 31 45 * * * </h2>
 
-<h2 style="color:Purple ;"> This project created using  Build with POLL-SCM</h2>
 </body>
 </html>
 
