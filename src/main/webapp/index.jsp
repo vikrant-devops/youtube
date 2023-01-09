@@ -9,10 +9,7 @@
 <h2 style="color:Purple;"> User Name= test </h2>
 <h2 style="color:Purple;"> ENVIRONMENT=QA </h2>
 
-<h2 style="color:Purple;"> Docker Sever IP= 172.17.0.4 </h2>
-<h2 style="color:Purple;"> User Name= test </h2>
-<h2 style="color:Purple;"> ENVIRONMENT=UAT </h2>
-<h2 style="color:Purple ;"> This project created using Parameterized option= Boolean Parameter</h2>
+<h2 style="color:Purple ;"> This project created using  Build with Periodically</h2>
 </body>
 </html>
 
