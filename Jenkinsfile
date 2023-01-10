@@ -14,6 +14,6 @@ pipeline {
                     steps {
 
                         sh 'sshpass -p "test" scp target/youtube.war test@172.17.0.2:/home/ubuntu/apache-tomcat-9.0.70/webapps'
-        }
+       }
 }}}
 
