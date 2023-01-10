@@ -5,7 +5,7 @@
 
 <h2 style="color:Purple;">This is Web application Program </h2>
 
-<h2 style="color:Purple ;"> This project created using  PipeLine SCRIPT-SCM  by  Jenkins File using Choice Parameter QA BUILD</h2>
+<h2 style="color:Purple ;"> This project created using  PipeLine SCRIPT-SCM  by  Jenkins File using String Parameter QA BUILD</h2>
 
 <h2 style="color:Purple;"> Docker Sever IP= 172.17.0.2 </h2>
 <h2 style="color:Purple;"> User Name= test </h2>
