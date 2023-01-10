@@ -16,7 +16,7 @@ pipeline {
 sshpass -p "test" scp target/youtube.war test@172.17.0.2:/home/ubuntu/apache-tomcat-9.0.70/webapps  
 
 elif [ $ENVIRONMENT = "UAT" ];then
-sshpass -p "test" scp target/youtube.war test@172.17.0.3:/home/ubuntu/apache-tomcat-9.0.70/webapps 
+sshpass -p "test" scp target/youtube.war test@172.17.0.4:/home/ubuntu/apache-tomcat-9.0.70/webapps 
  fi  '''
 }       
 }}}
